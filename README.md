@@ -71,9 +71,10 @@ The dataset is clean and does not contain missing values, making it suitable for
 
 Follow these steps to run the project on your system:
 
-1. Clone the repository
+1. Clone the repository:
+ git clone https://github.com/lokesh-061106/Rock_vs_Mine_prediction.git
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 cd Rock_vs_Mine_prediction
 
 3.Install required libraries:
